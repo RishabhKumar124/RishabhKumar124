@@ -5,8 +5,9 @@
 
 **Product-minded software engineer building AI systems that turn messy decisions into clear, useful software.**
 
-[![Portfolio project](https://img.shields.io/badge/flagship-HouseRank-11756d?style=flat-square)](https://github.com/RishabhKumar124/houserank)
-[![Live product](https://img.shields.io/badge/live_product-open-3157b7?style=flat-square)](https://housebuyer-app.vercel.app)
+[![Flagship](https://img.shields.io/badge/flagship-HouseRank-11756d?style=flat-square)](https://github.com/RishabhKumar124/houserank)
+[![Sports app](https://img.shields.io/badge/build-Offside-15803d?style=flat-square)](https://github.com/RishabhKumar124/offside)
+[![Family app](https://img.shields.io/badge/build-Siyu_Chef-c2410c?style=flat-square)](https://github.com/RishabhKumar124/siyu-chef)
 [![Open to work](https://img.shields.io/badge/open_to-work-b77b18?style=flat-square)](https://github.com/RishabhKumar124)
 
 </div>
@@ -23,7 +24,17 @@ I like problems where the inputs are incomplete, the tradeoffs are real, and the
 | **AI judgment** | I separate deterministic logic from model-driven research, show sources and confidence, and treat uncertainty as part of the product. |
 | **Shipping range** | I can move from idea to interface, API contract, safety boundary, test suite, deployment, docs, and public launch. |
 
-## Featured Build: HouseRank
+## Featured Builds
+
+![Featured builds: HouseRank, Offside, and Siyu Chef](assets/featured-builds.svg)
+
+| Project | What it proves | Links |
+| --- | --- | --- |
+| **HouseRank** | AI decision-support product with deterministic scoring, source-backed GPT research, privacy boundaries, CI, docs, and production deployment. | [Live](https://housebuyer-app.vercel.app) · [Source](https://github.com/RishabhKumar124/houserank) · [Brief](https://github.com/RishabhKumar124/houserank/blob/main/docs/RECRUITER_BRIEF.md) |
+| **Offside** | Mobile-first sports coordination app for pickup soccer RSVPs, team building, stats, and community loops. | [Live](https://offside-beta.vercel.app) · [Source](https://github.com/RishabhKumar124/offside) |
+| **Siyu Chef** | Consumer app for baby meal planning, feeding history, groceries, and family routines. | [Source](https://github.com/RishabhKumar124/siyu-chef) |
+
+## Flagship Deep Dive
 
 [![HouseRank home buying workspace](https://raw.githubusercontent.com/RishabhKumar124/houserank/main/docs/assets/houserank-dashboard.png)](https://housebuyer-app.vercel.app)
 

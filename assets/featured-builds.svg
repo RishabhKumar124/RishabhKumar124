@@ -1,0 +1,43 @@
+<svg width="1280" height="620" viewBox="0 0 1280 620" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Featured builds by Rishabh Kumar</title>
+  <desc id="desc">Three portfolio project cards for HouseRank, Offside, and Siyu Chef.</desc>
+  <rect width="1280" height="620" rx="30" fill="#F8FAFC"/>
+  <rect x="28" y="28" width="1224" height="564" rx="26" fill="#FFFFFF" stroke="#D9E2EC" stroke-width="2"/>
+  <text x="72" y="92" fill="#0F172A" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="40" font-weight="850">Featured builds</text>
+  <text x="72" y="130" fill="#475569" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">Three different product muscles: decision support, community coordination, and family routine software.</text>
+
+  <defs>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="14" stdDeviation="14" flood-color="#0F172A" flood-opacity="0.12"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#shadow)">
+    <rect x="72" y="188" width="352" height="316" rx="18" fill="#ECFEFF" stroke="#06B6D4" stroke-width="2"/>
+    <rect x="100" y="218" width="86" height="86" rx="18" fill="#0E7490"/>
+    <text x="123" y="272" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="850">HR</text>
+    <text x="100" y="350" fill="#0F172A" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="850">HouseRank</text>
+    <text x="100" y="386" fill="#164E63" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">AI-assisted home comparison, tour scoring, and source-backed property research.</text>
+    <text x="100" y="438" fill="#0E7490" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800">Next.js · OpenAI · PWA · decision systems</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="464" y="188" width="352" height="316" rx="18" fill="#F0FDF4" stroke="#22C55E" stroke-width="2"/>
+    <rect x="492" y="218" width="86" height="86" rx="18" fill="#15803D"/>
+    <text x="514" y="272" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="850">OF</text>
+    <text x="492" y="350" fill="#0F172A" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="850">Offside</text>
+    <text x="492" y="386" fill="#166534" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Pickup soccer coordination with RSVPs, team building, stats, and mobile packaging.</text>
+    <text x="492" y="438" fill="#15803D" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800">React · Supabase · Capacitor · sports tech</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="856" y="188" width="352" height="316" rx="18" fill="#FFF7ED" stroke="#F97316" stroke-width="2"/>
+    <rect x="884" y="218" width="86" height="86" rx="18" fill="#C2410C"/>
+    <text x="907" y="272" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="850">SC</text>
+    <text x="884" y="350" fill="#0F172A" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="850">Siyu Chef</text>
+    <text x="884" y="386" fill="#7C2D12" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Baby meal-planning and food-tracking app for recipes, groceries, and family routines.</text>
+    <text x="884" y="438" fill="#C2410C" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800">React · Vite · Capacitor · parenting tech</text>
+  </g>
+
+  <text x="72" y="558" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Portfolio theme: build useful systems from personal pain points, then make the product legible enough for other people to trust.</text>
+</svg>
