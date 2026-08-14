@@ -13,6 +13,16 @@
 
 I like problems where the inputs are incomplete, the tradeoffs are real, and the interface has to earn a user's trust. I work across product framing, AI boundaries, decision logic, frontend craft, and the reliability details that turn a clever demo into a usable product.
 
+![Rishabh Kumar portfolio system map](assets/portfolio-system-map.svg)
+
+## What To Notice First
+
+| Signal | Why it matters |
+| --- | --- |
+| **Product taste** | I do not just wrap AI around a form. I start with a painful decision, then design the workflow around how people actually think and act. |
+| **AI judgment** | I separate deterministic logic from model-driven research, show sources and confidence, and treat uncertainty as part of the product. |
+| **Shipping range** | I can move from idea to interface, API contract, safety boundary, test suite, deployment, docs, and public launch. |
+
 ## Featured Build: HouseRank
 
 [![HouseRank home buying workspace](https://raw.githubusercontent.com/RishabhKumar124/houserank/main/docs/assets/houserank-dashboard.png)](https://housebuyer-app.vercel.app)
@@ -28,6 +38,15 @@ HouseRank is a local-first home buying workspace that helps buyers compare prope
 | **Engineering quality** | Strict TypeScript, accessibility linting, contract tests, production builds, zero known npm audit findings, CI, Dependabot, and documented tradeoffs. |
 
 **[Try HouseRank](https://housebuyer-app.vercel.app)** | **[Read the source](https://github.com/RishabhKumar124/houserank)** | **[Architecture](https://github.com/RishabhKumar124/houserank/blob/main/docs/ARCHITECTURE.md)** | **[Engineering decisions](https://github.com/RishabhKumar124/houserank/blob/main/docs/ENGINEERING_DECISIONS.md)**
+
+## Fast Case Study
+
+| Question | Answer |
+| --- | --- |
+| **Who is it for?** | Buyers comparing serious home candidates after discovery, especially when the decision mixes finance, lifestyle, commute, schools, visit impressions, and resale risk. |
+| **What is novel?** | It treats home buying as a decision-support problem, not just search. The app keeps deterministic scoring, tour observations, and source-backed GPT research separate but comparable. |
+| **What would I discuss in an interview?** | How I designed the scoring model, why the AI boundary exists, how I handled fair-housing risk, and what would change for multi-user production scale. |
+| **What proves care?** | Live deployment, screenshots, PWA behavior, CI, tests, security notes, architecture docs, release, and an honest limitations section. |
 
 ## How I Build
 

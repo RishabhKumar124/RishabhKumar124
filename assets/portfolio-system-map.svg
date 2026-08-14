@@ -1,0 +1,52 @@
+<svg width="1280" height="560" viewBox="0 0 1280 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Rishabh Kumar portfolio system map</title>
+  <desc id="desc">A recruiter-facing visual map showing product instinct, AI systems, frontend craft, and shipping discipline converging into HouseRank.</desc>
+  <rect width="1280" height="560" rx="28" fill="#0F172A"/>
+  <rect x="30" y="30" width="1220" height="500" rx="24" fill="#111827" stroke="#334155" stroke-width="2"/>
+  <text x="72" y="88" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="38" font-weight="800">I build AI products where the hard part is judgment.</text>
+  <text x="72" y="124" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">Product framing, trustworthy AI boundaries, crisp interfaces, and production discipline in one loop.</text>
+
+  <defs>
+    <marker id="arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="10" markerHeight="10" orient="auto">
+      <path d="M2 2L10 6L2 10V2Z" fill="#94A3B8"/>
+    </marker>
+  </defs>
+
+  <rect x="72" y="188" width="245" height="190" rx="16" fill="#164E63" stroke="#22D3EE" stroke-width="2"/>
+  <text x="102" y="234" fill="#ECFEFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800">Product Instinct</text>
+  <text x="102" y="274" fill="#CFFAFE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Start from the decision</text>
+  <text x="102" y="304" fill="#CFFAFE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Name the user pressure</text>
+  <text x="102" y="334" fill="#CFFAFE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Design for real usage</text>
+
+  <path d="M332 282H427" stroke="#94A3B8" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <rect x="442" y="188" width="245" height="190" rx="16" fill="#1E3A8A" stroke="#60A5FA" stroke-width="2"/>
+  <text x="472" y="234" fill="#EFF6FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800">AI System Design</text>
+  <text x="472" y="274" fill="#DBEAFE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Deterministic core</text>
+  <text x="472" y="304" fill="#DBEAFE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Structured research</text>
+  <text x="472" y="334" fill="#DBEAFE" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Sources and uncertainty</text>
+
+  <path d="M702 282H797" stroke="#94A3B8" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <rect x="812" y="188" width="245" height="190" rx="16" fill="#7C2D12" stroke="#FB923C" stroke-width="2"/>
+  <text x="842" y="234" fill="#FFF7ED" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800">Frontend Craft</text>
+  <text x="842" y="274" fill="#FFEDD5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Fast scan patterns</text>
+  <text x="842" y="304" fill="#FFEDD5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Mobile field workflow</text>
+  <text x="842" y="334" fill="#FFEDD5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Calm dense UI</text>
+
+  <path d="M934 392V437" stroke="#94A3B8" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <rect x="357" y="432" width="566" height="64" rx="14" fill="#F8FAFC"/>
+  <text x="391" y="472" fill="#0F172A" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800">Shipped proof: HouseRank live app, source, CI, docs, and release</text>
+
+  <path d="M564 392V417" stroke="#94A3B8" stroke-width="3" marker-end="url(#arrow)"/>
+  <path d="M194 392C194 452 261 464 342 464" stroke="#94A3B8" stroke-width="3" marker-end="url(#arrow)"/>
+
+  <rect x="1092" y="188" width="116" height="190" rx="16" fill="#F8FAFC"/>
+  <text x="1124" y="246" fill="#0F172A" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="800">Ship</text>
+  <text x="1118" y="286" fill="#334155" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">test</text>
+  <text x="1116" y="316" fill="#334155" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">deploy</text>
+  <text x="1108" y="346" fill="#334155" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">explain</text>
+
+  <path d="M1072 282H1082" stroke="#94A3B8" stroke-width="3" marker-end="url(#arrow)"/>
+</svg>
