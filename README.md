@@ -28,7 +28,7 @@
 ### 📊 Portfolio System Map
 
 <div align="center">
-  <img src="assets/portfolio-system-map.svg" alt="Portfolio System Map" />
+  <img src="assets/portfolio-system-map.svg?v=2" alt="Portfolio System Map" />
 </div>
 
 ---
@@ -36,7 +36,7 @@
 ### 🏆 Featured Builds
 
 <div align="center">
-  <img src="assets/featured-builds.svg" alt="Featured Builds" />
+  <img src="assets/featured-builds.svg?v=2" alt="Featured Builds" />
 </div>
 
 <br />
