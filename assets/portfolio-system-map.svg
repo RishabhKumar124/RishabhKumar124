@@ -36,8 +36,9 @@
 
   <path d="M934 392V437" stroke="#94A3B8" stroke-width="3" marker-end="url(#arrow)"/>
 
-  <rect x="357" y="432" width="710" height="64" rx="14" fill="#F8FAFC"/>
-  <text x="391" y="472" fill="#0F172A" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800">Shipped proof: HouseRank live app, source, CI, docs, and release</text>
+  <rect x="357" y="432" width="566" height="80" rx="14" fill="#F8FAFC"/>
+  <text x="391" y="468" fill="#0F172A" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="800">Shipped proof: HouseRank live app,</text>
+  <text x="391" y="494" fill="#0F172A" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="800">source code, and CI/CD</text>
 
   <path d="M564 392V417" stroke="#94A3B8" stroke-width="3" marker-end="url(#arrow)"/>
   <path d="M194 392C194 452 261 464 342 464" stroke="#94A3B8" stroke-width="3" marker-end="url(#arrow)"/>

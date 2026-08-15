@@ -17,8 +17,12 @@
     <rect x="100" y="218" width="86" height="86" rx="18" fill="#0E7490"/>
     <text x="123" y="272" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="850">HR</text>
     <text x="100" y="350" fill="#0F172A" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="850">HouseRank</text>
-    <text x="100" y="386" fill="#164E63" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">AI-assisted home comparison, tour scoring, and source-backed property research.</text>
-    <text x="100" y="438" fill="#0E7490" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800">Next.js · OpenAI · PWA · decision systems</text>
+    <text x="100" y="386" fill="#164E63" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">
+      <tspan x="100" dy="0">AI-assisted home comparison,</tspan>
+      <tspan x="100" dy="22">tour scoring, and source-backed</tspan>
+      <tspan x="100" dy="22">property research.</tspan>
+    </text>
+    <text x="100" y="465" fill="#0E7490" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="800">Next.js - OpenAI - PWA</text>
   </g>
 
   <g filter="url(#shadow)">
@@ -26,8 +30,12 @@
     <rect x="492" y="218" width="86" height="86" rx="18" fill="#15803D"/>
     <text x="514" y="272" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="850">OF</text>
     <text x="492" y="350" fill="#0F172A" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="850">Offside</text>
-    <text x="492" y="386" fill="#166534" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Pickup soccer coordination with RSVPs, team building, stats, and mobile packaging.</text>
-    <text x="492" y="438" fill="#15803D" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800">React · Supabase · Capacitor · sports tech</text>
+    <text x="492" y="386" fill="#166534" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">
+      <tspan x="492" dy="0">Pickup soccer coordination</tspan>
+      <tspan x="492" dy="22">with RSVPs, team building,</tspan>
+      <tspan x="492" dy="22">stats, and mobile packaging.</tspan>
+    </text>
+    <text x="492" y="465" fill="#15803D" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="800">React - Supabase - Capacitor</text>
   </g>
 
   <g filter="url(#shadow)">
@@ -35,8 +43,12 @@
     <rect x="884" y="218" width="86" height="86" rx="18" fill="#C2410C"/>
     <text x="907" y="272" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="850">SC</text>
     <text x="884" y="350" fill="#0F172A" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="28" font-weight="850">Siyu Chef</text>
-    <text x="884" y="386" fill="#7C2D12" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Baby meal-planning and food-tracking app for recipes, groceries, and family routines.</text>
-    <text x="884" y="438" fill="#C2410C" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="800">React · Vite · Capacitor · parenting tech</text>
+    <text x="884" y="386" fill="#7C2D12" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">
+      <tspan x="884" dy="0">Baby meal-planning and food-</tspan>
+      <tspan x="884" dy="22">tracking app for recipes,</tspan>
+      <tspan x="884" dy="22">groceries, and routines.</tspan>
+    </text>
+    <text x="884" y="465" fill="#C2410C" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="800">React - Vite - Capacitor</text>
   </g>
 
   <text x="72" y="558" fill="#64748B" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">Portfolio theme: build useful systems from personal pain points, then make the product legible enough for other people to trust.</text>
