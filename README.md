@@ -28,7 +28,7 @@
 ### 📊 Portfolio System Map
 
 <div align="center">
-  <img src="assets/portfolio-system-map.svg?v=2" alt="Portfolio System Map" />
+  <img src="assets/portfolio-system-map.svg?v=3" alt="Portfolio System Map" />
 </div>
 
 ---

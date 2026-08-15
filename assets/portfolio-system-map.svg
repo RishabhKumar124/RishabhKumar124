@@ -1,6 +1,6 @@
-<svg width="1280" height="560" viewBox="0 0 1280 560" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1280" height="440" viewBox="0 0 1280 440" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Rishabh Kumar portfolio system map</title>
-  <desc id="desc">A recruiter-facing visual map showing product instinct, AI systems, frontend craft, and shipping discipline converging into HouseRank.</desc>
+  <desc id="desc">A recruiter-facing visual map showing product instinct, AI systems, frontend craft, and shipping discipline.</desc>
   
   <style>
     @keyframes float {
@@ -20,8 +20,8 @@
     .box4 { transform-origin: center; animation: float 6s ease-in-out infinite -1s; }
   </style>
 
-  <rect width="1280" height="560" rx="28" fill="#0F172A"/>
-  <rect x="30" y="30" width="1220" height="500" rx="24" fill="#111827" stroke="#334155" stroke-width="2"/>
+  <rect width="1280" height="440" rx="28" fill="#0F172A"/>
+  <rect x="30" y="30" width="1220" height="380" rx="24" fill="#111827" stroke="#334155" stroke-width="2"/>
   <text x="72" y="88" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="38" font-weight="800">I build AI products where the hard part is judgment.</text>
   <text x="72" y="124" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">Product framing, trustworthy AI boundaries, crisp interfaces, and production discipline in one loop.</text>
 
@@ -39,11 +39,6 @@
   <path d="M317 283H427" stroke="#94A3B8" stroke-width="3" class="flow-line" marker-end="url(#arrow)"/>
   <path d="M687 283H797" stroke="#94A3B8" stroke-width="3" class="flow-line" marker-end="url(#arrow)"/>
   <path d="M1057 283H1077" stroke="#94A3B8" stroke-width="3" class="flow-line" marker-end="url(#arrow)"/>
-
-  <!-- Vertical Arrows down to bottom box -->
-  <path d="M194.5 378V417" stroke="#94A3B8" stroke-width="3" class="flow-line" marker-end="url(#arrow)"/>
-  <path d="M564.5 378V417" stroke="#94A3B8" stroke-width="3" class="flow-line" marker-end="url(#arrow)"/>
-  <path d="M934.5 378V417" stroke="#94A3B8" stroke-width="3" class="flow-line" marker-end="url(#arrow)"/>
 
   <!-- Box 1 -->
   <g class="box1">
@@ -80,9 +75,4 @@
     <text x="1150" y="316" text-anchor="middle" fill="#334155" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">deploy</text>
     <text x="1150" y="346" text-anchor="middle" fill="#334155" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15">explain</text>
   </g>
-
-  <!-- Bottom Box -->
-  <rect x="164.5" y="432" width="800" height="64" rx="14" fill="#F8FAFC" filter="url(#glow)"/>
-  <text x="564.5" y="472" text-anchor="middle" fill="#0F172A" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="800">Shipped proof: HouseRank live app, source code, and CI/CD</text>
-
 </svg>
